@@ -9,7 +9,8 @@ Some researchers might find useful a version of diarization references that not 
 
 
 ### Citations
-In case of using the setup, please cite <TBD>
+In case of using the setup, please cite:\
+F. Landini, J. Profant, M. Diez, L. Burget: [Bayesian HMM clustering of x-vector sequences (VBx) in speaker diarization: theory, implementation and analysis on standard tasks](https://arxiv.org/abs/2012.14952)
 
 
 ## Contact
