@@ -7,6 +7,9 @@ Some researchers might find useful a version of diarization references that not 
 
 [1] J. Carletta, S. Ashby, S. Bourban, M. Flynn, M. Guillemot, T. Hain, J. Kadlec, V. Karaiskos, W. Kraaij, M. Kronenthal, et al., The AMI meeting corpus: A pre-announcement, in: International workshop on machine learning for multimodal interaction, Springer, 2006, pp. 28–39.
 
+### pyannote
+
+In order to avoid any future divergence between this repo and [`pyannote.audio`](https://www.github.com/pyannote/pyannote-audio) evaluation protocols, we also [provide](pyannote) the [`pyannote.database`](https://www.github.com/pyannote/pyannote-database) configuration file.
 
 ### Citations
 In case of using the setup, please cite:\

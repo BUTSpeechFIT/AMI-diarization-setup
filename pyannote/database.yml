@@ -1,0 +1,25 @@
+Protocols:
+  AMI:
+    SpeakerDiarization:
+
+      only_words:
+        train:
+            uri: ../lists/train.meetings.txt
+            annotation: _../only_words/rttms/train/{uri}.rttm
+        development:
+            uri: ../lists/dev.meetings.txt
+            annotation: _../only_words/rttms/dev/{uri}.rttm
+        test:
+            uri: ../lists/test.meetings.txt
+            annotation: _../only_words/rttms/test/{uri}.rttm
+ 
+      word_and_vocalsounds:
+        train:
+            uri: ../lists/train.meetings.txt
+            annotation: _../word_and_vocalsounds/rttms/train/{uri}.rttm
+        development:
+            uri: ../lists/dev.meetings.txt
+            annotation: _../word_and_vocalsounds/rttms/dev/{uri}.rttm
+        test:
+            uri: ../lists/test.meetings.txt
+            annotation: _../word_and_vocalsounds/rttms/test/{uri}.rttm
