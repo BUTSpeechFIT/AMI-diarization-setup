@@ -17,7 +17,7 @@ In order to use this setup directly with [pyannote](https://github.com/pyannote)
 
 ### Citations
 In case of using the setup, please cite:\
-F. Landini, J. Profant, M. Diez, L. Burget: [Bayesian HMM clustering of x-vector sequences (VBx) in speaker diarization: theory, implementation and analysis on standard tasks](https://arxiv.org/abs/2012.14952)
+F. Landini, J. Profant, M. Diez, L. Burget: [Bayesian HMM clustering of x-vector sequences (VBx) in speaker diarization: theory, implementation and analysis on standard tasks](https://www.sciencedirect.com/science/article/pii/S0885230821000619)
 
 
 ## Contact
